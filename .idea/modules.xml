@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/B17_BT1/B17_BT1.iml" filepath="$PROJECT_DIR$/B17_BT1/B17_BT1.iml" />
       <module fileurl="file://$PROJECT_DIR$/B17_TH1/B17_TH1.iml" filepath="$PROJECT_DIR$/B17_TH1/B17_TH1.iml" />
       <module fileurl="file://$PROJECT_DIR$/B17_TH_2/B17_TH_2.iml" filepath="$PROJECT_DIR$/B17_TH_2/B17_TH_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bài 17.iml" filepath="$PROJECT_DIR$/.idea/Bài 17.iml" />
